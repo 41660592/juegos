@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"aula_h101","order":3,"parentId":2,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":2,"expanded":true,"name":"ciudad 01","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":977.3333333333334},
+{"id":2,"expanded":true,"name":"ciudad 01","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":604},
 {"id":3,"expanded":false,"name":"pool_h_piso_01","order":2,"parentId":2,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":4,"expanded":false,"name":"aula_h102","order":4,"parentId":2,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":5,"expanded":false,"name":"Centro urbano","order":7,"parentId":0,"scrollX":1082.6666666666667,"scrollY":624},
